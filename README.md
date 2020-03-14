@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-This is a simple script that downloads a table of the total number of COVID-19 cases and deaths reported each day by the WHO and plots the progression of the disease in each country.
+This is a simple script that downloads a table of the total number of COVID-19 cases  reported each day and plots the progression of the disease in each country. It creates a graph for the WHO data and also the John Hopkins data.
 
 ## Requirements
 
